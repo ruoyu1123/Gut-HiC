@@ -1,0 +1,29 @@
+100.00	5	0	R	1	root
+100.00	5	0	D	609216830	  Bacteria
+ 80.00	4	0	P	947989846	    Firmicutes_A
+ 80.00	4	0	C	1797966051	      Clostridia
+ 60.00	3	0	O	2406156048	        Oscillospirales
+ 20.00	1	0	F	3868625589	          Acutalibacteraceae
+ 20.00	1	0	G	3902846772	            UBA6857
+ 20.00	1	0	S	4280249388	              UBA6857 sp900767015
+ 20.00	1	1	S1	387650981	                900767015
+ 20.00	1	0	F	1198123104	          Oscillospiraceae
+ 20.00	1	0	G	3122789187	            Evtepia
+ 20.00	1	0	S	2991756686	              Evtepia sp004551945
+ 20.00	1	1	S1	3896840316	                004551945
+ 20.00	1	0	F	2900471729	          Ruminococcaceae
+ 20.00	1	0	G	1407765868	            Negativibacillus
+ 20.00	1	0	S	3765528512	              Negativibacillus massiliensis
+ 20.00	1	1	S1	3199186781	                900148495
+ 20.00	1	0	O	152639893	        Christensenellales
+ 20.00	1	0	F	207089405	          CAG-74
+ 20.00	1	0	G	3928494108	            Onthenecus
+ 20.00	1	0	S	1270991468	              Onthenecus sp900199405
+ 20.00	1	1	S1	4028562218	                900199405
+ 20.00	1	0	P	838016209	    Planctomycetota
+ 20.00	1	0	C	2064170291	      Planctomycetia
+ 20.00	1	0	O	1081523491	        Pirellulales
+ 20.00	1	0	F	1178950157	          Thermoguttaceae
+ 20.00	1	0	G	1770300539	            RUG369
+ 20.00	1	0	S	2014964628	              RUG369 sp017937485
+ 20.00	1	1	S1	2799509836	                017937485
